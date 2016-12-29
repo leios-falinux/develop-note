@@ -7,4 +7,4 @@ cd buildroot-2016.11
 make O=../output-buildroot menuconfig
 ````
 
-![menuconfig](../images/0001_buildroot-menuconfig.png)
+![menuconfig](../images/001_buildroot-menuconfig.png)
