@@ -1,4 +1,4 @@
-## Adafruit kernel 적용
+### 1.2. Adafruit kernel 적용
 
 LCD를 활성화하기 위해서 [Adafruit github](https://github.com/adafruit/adafruit-raspberrypi-linux)를 사용한다.
 

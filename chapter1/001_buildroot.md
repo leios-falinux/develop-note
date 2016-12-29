@@ -1,4 +1,4 @@
-## Buildroot 준비
+### 1.1. Buildroot 준비
 
 [2016.11 버전](https://buildroot.org/downloads/buildroot-2016.11.tar.gz)을 사용한다.
 
